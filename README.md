@@ -1,2 +1,2 @@
-# Project-20
-This is my project 20 of whitehatjr.
+# p5.play-boilerplate
+Boiler plate for p5.play
